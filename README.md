@@ -1,4 +1,5 @@
 # shell_scripts
-call by these .sh files by Hotkey.app for mac
+Call script files by Hotkey.app for mac
+You can easily execute shell
 
 https://apps.apple.com/jp/app/hotkey-app/id975890633?mt=12
