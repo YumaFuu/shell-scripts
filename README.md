@@ -1,4 +1,4 @@
-# shell_scripts
+# shell-scripts
 Call these script files by Hotkey.app for mac.
 
 
