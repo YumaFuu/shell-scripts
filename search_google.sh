@@ -1,3 +1,7 @@
 #!/bin/bash
 word=`pbpaste`
-open "https://google.com/search?q=${word}"
+if [[ $word =~ ^(http|https)://(.+)\.(.+) ]]; then
+  open ${word}
+else
+  open "https://google.com/search?q=${word}"
+fi
